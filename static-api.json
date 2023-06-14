@@ -1,0 +1,5 @@
+[
+  {"nama" : "Anders Celsius", "deskripsi" : "(lahir di Uppsala, Swedia, 27 November 1701 – meninggal di Uppsala, Swedia, 25 April 1744 pada umur 42 tahun) adalah seorang astronom Swedia.","imageId" : "AndersCelsius"},
+  {"nama" : "Daniel Gabriel Fahrenheit", "deskripsi" : "(lahir pada 24 Mei 1686 - meninggal pada 16 September 1736) adalah seorang Belanda-Jerman-Polandia, merupakan seorang fisikawan, insinyur, dan kaca blower.","imageId" : "DanielGabrielFahrenheit"},
+  {"nama" : "William Thomson", "deskripsi" : "Lord Kelvin adalah seorang fisikawan dan matematikawan Britania (1824-1907). Lahir dengan nama William Thomson di Belfast.", "imageId" : "WilliamThomson"}
+]
